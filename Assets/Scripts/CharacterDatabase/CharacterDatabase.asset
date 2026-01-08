@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b742132d52b1f7746baf5b15e0b47783, type: 3}
+  m_Name: CharacterDatabase
+  m_EditorClassIdentifier: 
+  characters:
+  - genderName: Female
+    Icon: {fileID: 978240953, guid: 0be4ab69c2f2dda4cb8b209e55f310d2, type: 3}
+    Preview: {fileID: -1485217081, guid: 07e89f0eaefabf947921303d2a9cd2d7, type: 3}
+    prefab: {fileID: 3248909428799985622, guid: 107a376a5721684499dfb5b70eb1f9e1, type: 3}
+  - genderName: Male
+    Icon: {fileID: -1437549847, guid: 0be4ab69c2f2dda4cb8b209e55f310d2, type: 3}
+    Preview: {fileID: -2116858948, guid: 07e89f0eaefabf947921303d2a9cd2d7, type: 3}
+    prefab: {fileID: 7713813906097997417, guid: 349d46e871f7a084aabf35c4a534b59e, type: 3}
