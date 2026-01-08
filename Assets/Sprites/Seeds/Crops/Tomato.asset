@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3280464b2725e8442ae49895dcbfa5db, type: 3}
+  m_Name: Tomato
+  m_EditorClassIdentifier: 
+  cropName: kamatis
+  smallSproutSprite: {fileID: -1015397893, guid: f83653af2eb3dc145bd9de2c103c954f, type: 3}
+  mediumSproutSprite: {fileID: 1214599947, guid: f83653af2eb3dc145bd9de2c103c954f, type: 3}
+  grownSprite: {fileID: -1207366737, guid: f83653af2eb3dc145bd9de2c103c954f, type: 3}
+  timeToSmallSprout: 60
+  timeToMedium: 180
+  timeToGrown: 180
+  waterExpireTime: 180
